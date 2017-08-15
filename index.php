@@ -7,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
- this is a 
+ this is a body
 
 </body>
 </html>
