@@ -7,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
- this is a php page
+ this is a 
 
 </body>
 </html>
